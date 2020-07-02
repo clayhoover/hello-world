@@ -1,2 +1,4 @@
 # hello-world
-wth is even this
+what the hell is even this
+
+My name is Clay and I like to party
